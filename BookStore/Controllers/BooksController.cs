@@ -9,7 +9,7 @@ using BookStore.Data;
 using BookStore.Models;
 
 namespace BookStore.Controllers
-{
+{ 
     public class BooksController : Controller
     {
         private readonly AppDbContext _context;
